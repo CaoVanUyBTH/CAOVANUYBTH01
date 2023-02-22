@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CAOVANUYBTH02.props" />
+</Project>

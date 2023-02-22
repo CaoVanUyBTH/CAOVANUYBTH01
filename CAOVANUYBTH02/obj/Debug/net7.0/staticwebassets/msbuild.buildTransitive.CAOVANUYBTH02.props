@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CAOVANUYBTH02.props" />
+</Project>
