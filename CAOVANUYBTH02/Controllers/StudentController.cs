@@ -8,7 +8,18 @@ namespace CAOVANUYBTH2.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            return View();
+        }
         
+        [HttpPost]
+        public IActionResult Index(string FullName)
+        {
+            string strReturn = "Hello" + FullName;
+            ViewBag.Thongbao = strReturn;
+            return View();
+        }
     }
 
 }
