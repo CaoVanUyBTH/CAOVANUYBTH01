@@ -16,6 +16,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\ASUS\OneDrive\Máy tính\PTQMPL\CAOVANUYBTH01\BaiThucHanh0703
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/ASUS/OneDrive/Máy tính/PTQMPL/CAOVANUYBTH01/BaiThucHanh0703/Views/Home/GiaiPhuongTrinhBacHai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaWFpUGh1b25nVHJpbmhCYWNIYWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ASUS/OneDrive/Máy tính/PTQMPL/CAOVANUYBTH01/BaiThucHanh0703/Views/Home/GiaiPhuongTrinhBacMot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHaWFpUGh1b25nVHJpbmhCYWNNb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/ASUS/OneDrive/Máy tính/PTQMPL/CAOVANUYBTH01/BaiThucHanh0703/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -23,7 +23,7 @@ namespace BaiThucHanh0703.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Tinhtong(string Number)
+        public IActionResult TinhTong(string Number)
         {
             int so = Convert.ToInt32(Number);
             int tong = 0;
@@ -35,12 +35,12 @@ namespace BaiThucHanh0703.Controllers
             ViewBag.ThongbaoTinhtong = "Tong cac chu so cua so" + Number +"=" + tong;
             return View();
         }
-        public IActionResult Giaiphuongtrinhbachai()
+        public IActionResult GiaiPhuongTrinhBacHai()
         {
             return View();
         }
         [HttpPost]
-         public IActionResult Giaiphuongtrinhbachai(string hesoA, string hesoB, string hesoC)
+         public IActionResult GiaiPhuongTrinhBacHai(string hesoA, string hesoB, string hesoC)
         {
             //khai bao bien
             double delta, x1, x2, a =0, b=0, c=0;
